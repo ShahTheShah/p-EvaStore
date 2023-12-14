@@ -1,6 +1,6 @@
 <mxfile host="65bd71144e">
     <diagram id="3EIP82DR-pPi_5oQIhjt" name="Страница 1">
-        <mxGraphModel dx="1210" dy="787" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+        <mxGraphModel dx="2920" dy="2364" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -1647,7 +1647,7 @@
                 <mxCell id="606" style="edgeStyle=orthogonalEdgeStyle;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#ffffff;strokeWidth=1;fontFamily=Iosevka;fontSize=57;fontColor=#fbf9f9;startArrow=none;startFill=0;endArrow=none;endFill=0;" edge="1" parent="1" source="582" target="599">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="628" value="Characteristic(characteristics)" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=1;fontStyle=1;align=center;resizeLast=1;fillColor=#08f8fd;rounded=1;swimlaneFillColor=#272525;strokeColor=#fdfcfc;strokeWidth=1;fontFamily=Iosevka;fontSize=16;spacingLeft=4;spacingBottom=0;spacingRight=4;connectable=1;fontColor=#030303;" vertex="1" parent="1">
+                <mxCell id="628" value="Characteristic(characteristics)" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=1;fontStyle=1;align=center;resizeLast=1;fillColor=#c7fd08;rounded=1;swimlaneFillColor=#272525;strokeColor=#fdfcfc;strokeWidth=1;fontFamily=Iosevka;fontSize=16;spacingLeft=4;spacingBottom=0;spacingRight=4;connectable=1;fontColor=#030303;" vertex="1" parent="1">
                     <mxGeometry x="2160" y="720" width="320" height="240" as="geometry"/>
                 </mxCell>
                 <mxCell id="629" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;swimlaneFillColor=default;fontFamily=Iosevka;align=left;fontSize=11;spacingLeft=4;spacingBottom=0;spacingRight=4;noLabel=0;connectable=1;" vertex="1" parent="628">
@@ -1749,7 +1749,7 @@
                         </Array>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="659" value="Configuration(configurations)" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=1;fontStyle=1;align=center;resizeLast=1;fillColor=#08f8fd;rounded=1;swimlaneFillColor=#272525;strokeColor=#fdfcfc;strokeWidth=1;fontFamily=Iosevka;fontSize=16;spacingLeft=4;spacingBottom=0;spacingRight=4;connectable=1;fontColor=#030303;" vertex="1" parent="1">
+                <mxCell id="659" value="Configuration(configurations)" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=1;fontStyle=1;align=center;resizeLast=1;fillColor=#ec08fd;rounded=1;swimlaneFillColor=#272525;strokeColor=#fdfcfc;strokeWidth=1;fontFamily=Iosevka;fontSize=16;spacingLeft=4;spacingBottom=0;spacingRight=4;connectable=1;fontColor=#030303;" vertex="1" parent="1">
                     <mxGeometry x="2160" y="440" width="320" height="240" as="geometry"/>
                 </mxCell>
                 <mxCell id="660" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;swimlaneFillColor=default;fontFamily=Iosevka;align=left;fontSize=11;spacingLeft=4;spacingBottom=0;spacingRight=4;noLabel=0;connectable=1;" vertex="1" parent="659">
