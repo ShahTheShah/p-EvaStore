@@ -1,0 +1,9 @@
+FROM node:20-alpine AS builder
+
+WORKDIR /app
+
+COPY /*.json ./
+
+COPY . .
+
+RUN bun run build
