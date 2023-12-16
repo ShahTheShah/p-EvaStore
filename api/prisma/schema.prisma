@@ -17,8 +17,9 @@ model User {
     lastName  String?    @map("last_name")
     firstName String     @map("first_name")
     userName  String     @map("user_name")
-    roles     UserRole[] @default([BUYER])
     email     String
+
+    roles     UserRole[] @default([BUYER])
     status    UserStatus @default(NOT_CONFIRMED) @map("is_confirmed")
 
     password  Password?
