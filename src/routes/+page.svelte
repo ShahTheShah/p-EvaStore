@@ -1,2 +1,7 @@
-<h1>Welcome to SvelteKit</h1>
-<p>Visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to read the documentation</p>
+<script lang="ts">
+    let number = $state(0);
+</script>
+
+<h1>Number is { number }!</h1>
+<button on:click={() => number++}>Increment</button>
+<button on:click={() => number--}>Decrement</button>
